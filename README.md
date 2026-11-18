@@ -1,9 +1,10 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,50:1e6fd9,100:38bdf8&height=220&section=header&text=NGUYEN%20NHU%20NGOC&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Python%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:8b5cf6,100:f9a8d4&height=220&section=header&text=NGUYEN%20NHU%20NGOC&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%40%20DUT%20%C2%B7%20Japanese%20Program%20%7C%20UI%2FUX%20%C2%B7%20AI%20%C2%B7%20Data&descSize=14&descAlignY=60" width="100%" />
 
 <a href="https://github.com/nqoc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:102250296@sv1.dut.udn.vn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=nqoc&style=for-the-badge&color=c084fc" alt="Profile views" />
 
 </div>
 
@@ -13,7 +14,9 @@
 
 Hi! I'm **Nguyen Nhu Ngoc**, an Information Technology student at **The University of Danang – University of Science and Technology (DUT)**, currently pursuing the Japanese-language program.
 
-I'm passionate about technology and enjoy exploring how software and AI can solve practical problems.
+I'm interested in Applied Artificial Intelligence, Machine Learning, and Software Development. I enjoy exploring how technology can be applied to real-world problems and transformed into useful products.
+
+Rather than limiting myself to a single technology, I'm continuously exploring different areas of AI through hands-on projects, teamwork, and research.
 
 I believe that becoming a good developer is not just about writing code, but also about understanding problems, designing solutions, and continuously learning through real-world projects.
 
@@ -67,6 +70,14 @@ I believe that becoming a good developer is not just about writing code, but als
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
+
+**🎨 Design**
+
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+
 ---
 
 ## 💼 Projects & Research
@@ -82,8 +93,6 @@ An AI-powered system designed to connect university students with suitable resea
 - Explored NLP and embedding-based matching techniques.
 - Collaborated on the AI matching functionality.
 
-🏆 **Achievement:** Most-Liked Project – BK Smart Campus.
-
 ---
 
 ### ⚖️ FairInsight — Legal Information Search Website
@@ -96,6 +105,9 @@ A collaborative project focused on developing a website for legal information re
 - Participated in requirement analysis and Use Case development.
 - Contributed to UI/UX design.
 - Researched relevant legal regulations to support system requirements.
+
+🏆 **Achievement:** Second Prize — Best Web Design
+
 
 ---
 
