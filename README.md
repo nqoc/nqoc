@@ -1,16 +1,6 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:8b5cf6,100:f9a8d4&height=220&section=header&text=NGUYEN%20NHU%20NGOC&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%40%20DUT%20%C2%B7%20Japanese%20Program%20%7C%20UI%2FUX%20%C2%B7%20AI%20%C2%B7%20Data&descSize=14&descAlignY=60" width="100%" />
 
-<a href="https://github.com/nqoc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:102250296@sv1.dut.udn.vn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=nqoc&style=for-the-badge&color=c084fc" alt="Profile views" />
-
-</div>
-
----
-
-## 👋 About Me
+## 🌷 About Me
 
 Hi! I'm **Nguyen Nhu Ngoc**, an Information Technology student at **The University of Danang – University of Science and Technology (DUT)**, currently pursuing the Japanese-language program.
 
